@@ -1,0 +1,20 @@
+body {
+  margin: 5%;
+  font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", sans-serif;
+}
+
+.title {
+  color: darkmagenta;
+  text-align: center;
+  margin-bottom: 3%;
+}
+
+.entry-textbox {
+  background-color: #ffa62b;
+  padding: 2rem;
+  width: 20rem;
+  height: 10rem;
+  margin-bottom: 0.5rem;
+  border: unset;
+  border-radius: 25px;
+}
