@@ -27,4 +27,16 @@ body {
   padding: 5px;
   border: unset;
   margin-left: 76%;
+  background-color: darkmagenta;
+  color: azure;
+}
+
+#entries {
+  background-color: darkmagenta;
+  color: #ede7e3;
+  padding: 1rem;
+  border-radius: 5px;
+  margin-top: 25px;
+  max-width: 20em;
+  border: unset;
 }
